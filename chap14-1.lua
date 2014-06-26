@@ -24,3 +24,25 @@ end
 
 setfield("t.x.y", 10)
 print(t.x.y)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

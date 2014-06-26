@@ -15,5 +15,5 @@ days = readOnly{"Sunday", "Monday", "Tuesday", "Wednessdat",
 				"Thursday", "Friday", "Saturday"}
 
 print(days[1])
-days[2] = "Noday"				-- 对只读table的设置回报错
+days[2] = "Noday"				-- 对只读table的设置会报错
 
